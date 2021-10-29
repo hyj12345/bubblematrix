@@ -13,5 +13,6 @@ example_data
 \description{
 These data were generated from the Manson_VITAL_protocol_NEJM_2019
 study.
+ @name example_data
 }
 \keyword{datasets}
