@@ -1,0 +1,19 @@
+Package: bubblematrix
+Type: Package
+Title: Plot bubble matrix
+Version: 0.1.0
+Date: 2021-10-20
+Author: YUJIN HAN
+Maintainer: The package maintainer <yujin.han@yale.edu>
+Description: Use the package to create the bubble matrix
+License: LGPL (>= 2.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: dplyr, ggplot2
+Suggests: DT, rmarkdown, knitr, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: R (>= 2.10)
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2021-10-29 01:45:40 UTC; hanbujishenmebuhui
