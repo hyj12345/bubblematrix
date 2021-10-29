@@ -1,13 +1,14 @@
 #'This is some description of this function.
-#'@title simple function
+#'@title bubblematrix function
 #'
-#'@description today,I create my first function,a very usrful function.
+#'@description Create your own dynamic or state bubblematrix plot
 #'
-#'@details you can use this function to caculate x+1,then return the value of x+1.
+#'@details you can use this function to plot bubblematrix(ploty or not).
 #'
-#'@param x x is a number
-#'
-#'@return a dataframe
+#'@param data
+#'@param percentile Determine the sub-locations for the drawing
+#'@param labels labels of each interval
+#'@return None Show the plot
 #'
 #'@export
 #'
