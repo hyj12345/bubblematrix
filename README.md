@@ -26,26 +26,28 @@ devtools::install_github("hyj12345/bubblematrix")
 
 Let's use the data in the package to have a simple test
 
-```r
-example_data<-bubblematrix::example_data
-```
-
-
-![image-0](https://github.com/hyj12345/bubblematrix/blob/main/png/data.png)
-
-
 ### View the built-in dataset
 
 ```r
 library(bubblematrix)
 data(package="bubblematrix")
+example_data<-bubblematrix::example_data
 ```
+
+
 
 And we can get the information:
 
-**Data sets in package ‘bubblematrix’:**
+![image-0](https://github.com/hyj12345/bubblematrix/blob/main/png/data_info.png)
 
-**example_data             An example data for bubble_matrix()**     
+
+And the data
+
+![image-0](https://github.com/hyj12345/bubblematrix/blob/main/png/data.png)
+
+
+
+  
 
 ### Create the bubble matrix plot
 
