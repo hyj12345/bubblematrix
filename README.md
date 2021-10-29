@@ -24,15 +24,15 @@ devtools::install_github("hyj12345/bubblematrix")
 
 ## Example
 
-Let's use the data to have a simple test
+Let's use the data in the package to have a simple test
 
 ```r
-example_data<-data.frame(malca=c(0.06367852,0.06363917,0.06312858),
-                         colca=c(0.004332353,0.004332353,0.004332353),
-                         brca=c(0.01742586,0.01989593,0.01831502),
-                         prca=c(0.03420144,0.03420144,0.03420144),
-                         cancer=c(0.06367852,0.06363917,0.06312858))
+example_data<-bubblematrix::example_data
 ```
+
+
+![image-0](https://github.com/hyj12345/bubblematrix/blob/main/png/data.png)
+
 
 ### View the built-in dataset
 
