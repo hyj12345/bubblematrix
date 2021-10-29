@@ -16,16 +16,15 @@ bubble_matrix(
 )
 }
 \arguments{
-\item{x}{x is a number}
+\item{data}{}
+\item{data}{}
 }
 \value{
 a dataframe
 }
 \description{
-today,I create my first function,a very usrful function.
+Create your own dynamic or state bubblematrix plot.
 }
 \details{
-This is some description of this function.
-
-you can use this function to caculate x+1,then return the value of x+1.
+you can use this function to plot bubblematrix(ploty or not).
 }
