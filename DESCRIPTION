@@ -16,4 +16,4 @@ Config/testthat/edition: 3
 Depends: R (>= 2.10)
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2021-10-29 02:21:52 UTC; hanbujishenmebuhui
+Packaged: 2021-10-29 02:49:53 UTC; hanbujishenmebuhui
