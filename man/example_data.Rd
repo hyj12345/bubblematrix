@@ -4,7 +4,14 @@
 \name{example_data}
 \alias{example_data}
 \title{An example data for bubble_matrix()}
+\format{
+An object of class \code{data.frame} with 3 rows and 5 columns.
+}
+\usage{
+example_data
+}
 \description{
 These data were generated from the Manson_VITAL_protocol_NEJM_2019
 study.
 }
+\keyword{datasets}
