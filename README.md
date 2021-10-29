@@ -37,15 +37,14 @@ And we can get the information:
 
 **Data sets in package ‘bubblematrix’:**
 
-**example**     
+**example_data**     
 
 ### Create the bubble matrix plot
 
 * Just use the default parameters
 
 ```r
-data_ma <- data(example)
-bubble_matrix(data = data_ma)
+bubble_matrix(data = example_data)
 ```
 
 And we can get the (ploty) plot
@@ -57,7 +56,7 @@ And we can get the (ploty) plot
 * Use the customized parameters
 
 ```r
-bubble_matrix(data = data_ma,percentile = c(0,0.5,1),
+bubble_matrix(data = example_data,percentile = c(0,0.5,1),
               labels = c('Lowest part','Highest part'),
               color = c('red','black'),
               title = 'Bubble matrix plot',subtitle = 'test the pkg'
