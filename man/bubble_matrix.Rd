@@ -2,7 +2,7 @@
 % Please edit documentation in R/bubblematrix.R
 \name{bubble_matrix}
 \alias{bubble_matrix}
-\title{bubblematrix function}
+\title{simple function}
 \usage{
 bubble_matrix(
   data,
@@ -16,15 +16,16 @@ bubble_matrix(
 )
 }
 \arguments{
-\item{data}{}
-\item{data}{}
+\item{x}{x is a number}
 }
 \value{
 a dataframe
 }
 \description{
-Create your own dynamic or state bubblematrix plot.
+today,I create my first function,a very usrful function.
 }
 \details{
-you can use this function to plot bubblematrix(ploty or not).
+This is some description of this function.
+
+you can use this function to caculate x+1,then return the value of x+1.
 }
