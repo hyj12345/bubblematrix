@@ -2,7 +2,7 @@
 % Please edit documentation in R/bubblematrix.R
 \name{bubble_matrix}
 \alias{bubble_matrix}
-\title{simple function}
+\title{bubblematrix function}
 \usage{
 bubble_matrix(
   data,
