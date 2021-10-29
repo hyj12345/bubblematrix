@@ -10,7 +10,8 @@ roxygenize("/Users/hanbujishenmebuhui/Desktop/my R pkg/bubblematrix")
 library(devtools)
 check("/Users/hanbujishenmebuhui/Desktop/my R pkg/bubblematrix")
 load_all()
-bubble_matrix()
+bubblematrix::bubble_matrix()
+bubblematrix::example_data
 ```
 
 ## Installation
