@@ -67,6 +67,6 @@ bubble_matrix(data = data_ma,percentile = c(0,0.5,1),
 And we can get the plot
 
 
-![image-2](https://github.com/hyj12345/bubblematrix/blob/main/png/setteing.png)
+![image-2](https://github.com/hyj12345/bubblematrix/blob/main/png/setting.png)
 
 
