@@ -37,7 +37,7 @@ And we can get the information:
 
 **Data sets in package ‘bubblematrix’:**
 
-**example_data**     
+**example_data             An example data for bubble_matrix()**     
 
 ### Create the bubble matrix plot
 
