@@ -4,6 +4,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/kaneplusplus/bis620/workflows/R-CMD-check/badge.svg)](https://github.com/hyj12345/bubblematrix/actions)
+[![INFO](https://img.shields.io/badge/YJ-Homepage-orange)](https://github.com/hyj12345/bubblematrix)
+
 <!-- badges: end -->
 
 
