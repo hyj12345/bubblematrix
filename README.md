@@ -3,10 +3,10 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/hyj2345/bubblematrix/workflows/R-CMD-check/badge.svg)](https://github.com/hyj12345/bubblematrix/actions)
+[![R-CMD-check](https://github.com/kaneplusplus/bis620/workflows/R-CMD-check/badge.svg)](https://github.com/hyj12345/bubblematrix/actions)
 <!-- badges: end -->
 
-![example](https://img.shields.io/badge/example-v1.0-red.svg)
+![example][(https://img.shields.io/badge/example-v1.0-red.svg)](https://github.com/hyj12345/bubblematrix/actions)
 
 This package is created to help create your own bubble matrix plot.
 
