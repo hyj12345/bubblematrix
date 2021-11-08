@@ -25,6 +25,8 @@ bubblematrix::example_data
 build("/Users/hanbujishenmebuhui/Desktop/my R pkg/bubblematrix")
 ```
 
+There are no errors or warning.
+
 ## Installation
 
 You can install the released version of bubblematrix from [GitHub](https://github.com/) with:
@@ -34,7 +36,6 @@ You can install the released version of bubblematrix from [GitHub](https://githu
 devtools::install_github("hyj12345/bubblematrix")
 ```
 
-There are no errors or warning.
 
 ## Example
 
