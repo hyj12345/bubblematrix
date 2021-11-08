@@ -21,6 +21,8 @@ check("/Users/hanbujishenmebuhui/Desktop/my R pkg/bubblematrix")
 load_all()
 bubblematrix::bubble_matrix()
 bubblematrix::example_data
+#build the package
+build(check("/Users/hanbujishenmebuhui/Desktop/my R pkg/bubblematrix"))
 ```
 
 ## Installation
