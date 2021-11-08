@@ -32,6 +32,8 @@ You can install the released version of bubblematrix from [GitHub](https://githu
 devtools::install_github("hyj12345/bubblematrix")
 ```
 
+There are no errors or warning.
+
 ## Example
 
 Let's use the data in the package to have a simple test
