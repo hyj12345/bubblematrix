@@ -1,6 +1,8 @@
 # bubblematrix
 
+
 <!-- badges: start -->
+
 [![R-CMD-check](https://github.com/hyj2345/bubblematrix/workflows/R-CMD-check/badge.svg)](https://github.com/hyj12345/bubblematrix/actions)
 <!-- badges: end -->
 
